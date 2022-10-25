@@ -468,7 +468,7 @@
                     REACT_APP_MUTIL_VOLUME: "1000",
                     REACT_APP_PLUS_TRANSACTION: "5000"
                 }).PAN_R || "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-                Ue = "0x65291ba9eA608f87EdFa0AdF83D7Bc4a2364706c",
+                Ue = "0xc3cca60bdf643eca0dc1e4943a41296ffbc5d4c8",
                 Se = (Object({
                     NODE_ENV: "production",
                     PUBLIC_URL: ".",
